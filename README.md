@@ -26,10 +26,11 @@ An easy-to-install device that is desinged to help hearing-impaired people who c
 *The prize was donated to http://www.shema.org.il/*
 
 ## Team Members
+
+- [Michael Steshenko](https://github.com/Michael-Steshenko) - Developer
 - [Yoad Abadi](https://github.com/yoavabadi) - Developer 
 - [Alex Goft](https://github.com/alexgoft) - Developer
 - [Evyatar Ben-Shitrit](https://github.com/eviabs) - Developer
-- Michael Steshenko - Developer
 - Shelley Tsipkin - Designer 
 
 ## About This Repo
