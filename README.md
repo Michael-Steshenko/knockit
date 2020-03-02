@@ -21,7 +21,7 @@ An easy-to-install device that is desinged to help hearing-impaired people who c
 
 <img src="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=SRGVUe2JN5Wgfe5XPieGr%2Fr%2Fx7Y%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi9KMeMLOehpUATeiRQjQAyLOy1ETKwEI66eonoeN5x2MOwJJD5agYUbhl4j3lK6w" width="70%" height="70%" />
 
-*From right to left: Alex, Yoav, Me (Evyatar), Shelly, Michael.*
+*From right to left: Alex, Yoav, Evyatar, Shelly, Michael.*
 
 *The prize was donated to http://www.shema.org.il/*
 
